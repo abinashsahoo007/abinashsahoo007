@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+"C:\Users\USER\OneDrive\Pictures\Camera Roll\logo.jpg"
+
 ### Aspiring Data Scientist/Data Analyst
 🌱 I’m currently learning full stack web development and machine learning
 
