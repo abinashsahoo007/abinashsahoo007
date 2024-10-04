@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/user-attachments/assets/472cf165-a87f-4aa9-aa0b-319ed1c9c830)
 
-### Aspiring Data Scientist/Data Analyst
+### Aspiring Software Developer/Data Analyst
 🌱 I’m currently learning full stack web development and machine learning
 
 <!--
